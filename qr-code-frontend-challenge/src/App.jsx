@@ -14,24 +14,6 @@ function App() {
           </p>
         </div>
       </div>
-      <div className="attribution">
-        Challenged by
-        <a
-          href="https://www.frontendmentor.io?ref=challenge"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Frontend Mentor
-        </a>
-        . Coded by
-        <a
-          href="http://twitter.com/akon1703"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          AKONKWA USHINDI Isaac
-        </a>
-      </div>
     </>
   );
 }
