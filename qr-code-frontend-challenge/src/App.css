@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
 
 * {
   padding: 0;
@@ -36,19 +37,12 @@ h2 {
   text-align: center;
   letter-spacing: -0.05em;
   line-height: 1;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
+  font-family: "Poppins", sans-serif;
 }
 p {
   text-align: center;
-  line-height: 1;
+  line-height: 1.5;
   margin-bottom: 2rem;
   color: hsl(220, 15%, 55%);
-}
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  margin-top: 3rem;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
