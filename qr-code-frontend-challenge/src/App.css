@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
 
 * {
   padding: 0;
@@ -17,7 +16,7 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 
-.container {
+main {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -33,16 +32,16 @@ img {
   margin-bottom: 1.5rem;
 }
 
-h2 {
+h1 {
   text-align: center;
+  font-size: 1.5em;
   letter-spacing: -0.05em;
   line-height: 1;
-  margin-bottom: 1.5rem;
-  font-family: "Poppins", sans-serif;
+  margin-bottom: 2rem;
 }
 p {
   text-align: center;
-  line-height: 1.5;
+  line-height: 1;
   margin-bottom: 2rem;
   color: hsl(220, 15%, 55%);
 }
